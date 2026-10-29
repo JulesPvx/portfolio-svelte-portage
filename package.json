@@ -19,7 +19,7 @@
     "@inlang/paraglide-js": "2.3.2",
     "@sveltejs/adapter-static": "^3.0.8",
     "@sveltejs/enhanced-img": "^0.8.1",
-    "@sveltejs/kit": "^2.22.0",
+    "@sveltejs/kit": "^3.0.0",
     "@sveltejs/vite-plugin-svelte": "^6.0.0",
     "@tailwindcss/vite": "^4.0.0",
     "firebase-tools": "^14.16.0",
